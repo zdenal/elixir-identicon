@@ -12,3 +12,6 @@ $> iex -S mix
 
 iex> Identicon.main("zdenal")
 ```
+result is:
+
+![result for zdenal text](https://github.com/zdenal/elixir-identicon/blob/master/zdenal.png)
